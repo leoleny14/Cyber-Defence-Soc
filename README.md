@@ -5,3 +5,4 @@ Welcome! This repository gathers some of my practical studies, investigations, a
 ***💻 Write-ups & Investigations
 
 1. [Case Report: SOC338 - Lumma Stealer Investigation](SOC338-Lumma-Stealer.md)
+2. [Case Report: SOC239 - Splunk Enterprise Investigation](SOC239-Splunk-Enterprise.md)
