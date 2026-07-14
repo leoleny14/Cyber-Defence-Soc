@@ -6,6 +6,8 @@ EventID : 201
 
 Event Time : Nov, 21, 2023, 12:24 PM
 
+Severity: High.
+
 Rule : SOC239 - Remote Code Execution Detected in Splunk Enterprise
 
 Level : Security Analyst
