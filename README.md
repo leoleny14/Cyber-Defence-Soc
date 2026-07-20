@@ -8,3 +8,4 @@ Welcome! This repository gathers some of my practical studies, investigations, a
 2. [Case Report: SOC239 - Splunk Enterprise Investigation](SOC239-Splunk-Enterprise.md)
 3. [Case Report: SOC250 - HyperScrape Investigation](SOC250-HyperScrape.md)
 4. [Case Report: SOC205 - Malicious Macro Investigation](SOC205-Malicious-Macro.md)
+5. [Case Report: SOC326 - Impersonating Domain Investigation](SOC326-Impersonating-Domain.md)
