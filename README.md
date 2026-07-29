@@ -11,3 +11,4 @@ Welcome! This repository gathers some of my practical studies, investigations, a
 5. [Case Report: SOC326 - Impersonating Domain Investigation](SOC326-Impersonating-Domain.md)
 6. [Case Report: SOC211 - Utilman.exe Winlogon Investigation](SOC211-Utilman.exe-Winlogon.md)
 7. [Case Report: SOC210 - Brute Force VPN Investigation](SOC210-Brute-Force-VPN.md)
+8. [Case Report: SOC251 - Quishing Detected Investigation](SOC251-Quishing-Detected.md)
